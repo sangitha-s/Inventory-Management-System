@@ -20,3 +20,11 @@ A simple Inventory Management System developed in C++ using Object-Oriented Prog
   ``` bash
    g++ main.cpp -o inventory
   ```
+2. Run the executable:
+   ```bash
+   ./inventory
+   ```
+   On Windows:
+   ```bash
+   inventory.exe
+   ```
