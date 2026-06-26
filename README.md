@@ -17,6 +17,6 @@ A simple Inventory Management System developed in C++ using Object-Oriented Prog
 
 ## How to Run
 1. Compile the program:
-   bash
+  ``` bash
    g++ main.cpp -o inventory
-  
+  ```
